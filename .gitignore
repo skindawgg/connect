@@ -1,0 +1,9 @@
+# Local Codex scratch space
+work/
+
+# Generated deliverables can be recreated or shared separately
+outputs/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
